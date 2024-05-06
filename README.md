@@ -8,7 +8,7 @@
 
 ### No Scripts
 
-不載入 JavaScript 也能使用核心功能。
+禁止網頁載入 JavaScript。
 
 > [!WARNING]
 > 會導致清單內網頁大部分功能無法使用（例如：Google 搜尋只能搜尋網頁，無法搜尋圖片），請謹慎使用。
