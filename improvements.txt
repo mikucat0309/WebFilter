@@ -1,12 +1,14 @@
+[Adblock Plus 2.0]
+! Title: MikuList
+! Expires: 30 days
+! Last modified: Mon, 04 Jun 2024 00:00:00 +0800
+
 ! 擴展 YouTube 劇院模式的影片高度
 www.youtube.com##ytd-watch-flexy[full-bleed-player]:not([fullscreen]) #full-bleed-container.ytd-watch-flexy:style(max-height: calc(100vh - var(--ytd-watch-flexy-masthead-height)) !important;)
-
 ! 讚 / 倒讚 / 回覆
 www.youtube.com##ytd-comment-engagement-bar
-
 ! 影片 Metadata
 www.youtube.com##ytd-rich-metadata-row-renderer > div#contents
-
 ! 推薦影片
 www.youtube.com##div#related
 
