@@ -1,9 +1,11 @@
-www.google.com * 1p-script block
-www.google.com * 3p-script block
-www.google.com * inline-script block
-www.ettoday.net * 1p-script block
-www.ettoday.net * 3p-script block
-www.ettoday.net * inline-script block
-tw.news.yahoo.com * 1p-script block
-tw.news.yahoo.com * 3p-script block
-tw.news.yahoo.com * inline-script block
+no-csp-reports: * true
+no-large-media: behind-the-scene false
+* * 3p-frame block
+* * 3p-script block
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
