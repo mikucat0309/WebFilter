@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: MikuList - Improvements
-! Expires: 30 days
+! Expires: 7 days
 ! Last modified: Wed, 28 Aug 2024 00:00:00 +0800
 
 ! 擴展 YouTube 劇院模式的影片高度
