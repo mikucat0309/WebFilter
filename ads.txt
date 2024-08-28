@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: MikuList - AD
+! Title: MikuList - Advertisements
 ! Expires: 30 days
 ! Last modified: Wed, 28 Aug 2024 00:00:00 +0800
 
