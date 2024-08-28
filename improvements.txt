@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: MikuList
+! Title: MikuList - Improvements
 ! Expires: 30 days
-! Last modified: Mon, 04 Jun 2024 00:00:00 +0800
+! Last modified: Wed, 28 Aug 2024 00:00:00 +0800
 
 ! 擴展 YouTube 劇院模式的影片高度
 www.youtube.com##ytd-watch-flexy[full-bleed-player]:not([fullscreen]) #full-bleed-container.ytd-watch-flexy:style(max-height: calc(100vh - var(--ytd-watch-flexy-masthead-height)) !important;)
@@ -11,22 +11,6 @@ www.youtube.com##ytd-comment-engagement-bar
 www.youtube.com##ytd-rich-metadata-row-renderer > div#contents
 ! 推薦影片
 www.youtube.com##div#related
-
-! 廣告
-zh.moegirl.org.cn##a[rel="noopener noreferrer"]
-
-adc.cathaybk.com.tw
-
-www.ruten.com.tw##div.product-item:has(span.rt-product-card-ad-tag)
-www.ruten.com.tw##div.product-item:has(div.recommender-keyword)
-www.ruten.com.tw##div.product-card-highlight:remove-class(product-card-highlight)
-www.ruten.com.tw##div.product-card-name-bold:remove-class(product-card-name-bold)
-www.ruten.com.tw##div.product-card-shining-border:remove-class(product-card-shining-border)
-
-www.ruten.com.tw##.spotlight-section
-www.ruten.com.tw##.rt-mb-6x.rt-mt-2x
-
-ap-northeast-1.signin.aws.amazon.com##div[data-testid="marketing_image_container"]
 
 ! 追蹤
 *.console.aws.a2z.com
@@ -39,10 +23,7 @@ alkalimetricsink-pa.clients6.google.com
 dcard.tw##div.__portal
 dcard.tw##body:style(overflow-x: auto !important;overflow-y: scroll !important;)
 
-
 ! Reel
 www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-shelf-renderer
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
-
-
