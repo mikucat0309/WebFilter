@@ -12,6 +12,11 @@ www.youtube.com##ytd-rich-metadata-row-renderer > div#contents
 ! 推薦影片
 www.youtube.com##div#related
 
+! Reel
+www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##ytd-shelf-renderer
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
 ! 追蹤
 *.console.aws.a2z.com
 *.console.aws.amazon.com/panoramaroute
@@ -22,8 +27,3 @@ alkalimetricsink-pa.clients6.google.com
 ! 登入牆
 dcard.tw##div.__portal
 dcard.tw##body:style(overflow-x: auto !important;overflow-y: scroll !important;)
-
-! Reel
-www.youtube.com##ytd-reel-shelf-renderer
-www.youtube.com##ytd-shelf-renderer
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
