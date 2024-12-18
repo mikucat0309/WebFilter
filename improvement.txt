@@ -1,0 +1,21 @@
+[Adblock Plus 2.0]
+! Title: MikuList - Aggressive Improvements
+! Expires: 1 days
+
+! 讚 / 倒讚 / 回覆
+www.youtube.com##ytd-comment-engagement-bar
+! 影片 Metadata
+www.youtube.com##ytd-rich-metadata-row-renderer > div#contents
+! 推薦影片
+www.youtube.com##div#related
+! Reel
+www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##ytd-shelf-renderer
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
+! login wall
+dcard.tw##div.__portal
+dcard.tw##body:style(overflow-x: auto !important;overflow-y: scroll !important;)
+
+! Sign In With Google
+accounts.google.com/gsi

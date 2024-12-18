@@ -1,0 +1,18 @@
+[Adblock Plus 2.0]
+! Title: MikuList - Advertisements
+! Expires: 1 days
+
+zh.moegirl.org.cn##a[rel="noopener noreferrer"]
+
+adc.cathaybk.com.tw
+
+www.ruten.com.tw##div.product-item:has(span.rt-product-card-ad-tag)
+www.ruten.com.tw##div.product-item:has(div.recommender-keyword)
+www.ruten.com.tw##div.product-card-highlight:remove-class(product-card-highlight)
+www.ruten.com.tw##div.product-card-name-bold:remove-class(product-card-name-bold)
+www.ruten.com.tw##div.product-card-shining-border:remove-class(product-card-shining-border)
+
+www.ruten.com.tw##.spotlight-section
+www.ruten.com.tw##.rt-mb-6x.rt-mt-2x
+
+signin.aws.amazon.com##div[data-testid="marketing_image_container"]
