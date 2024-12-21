@@ -12,6 +12,9 @@ www.youtube.com##div#related
 www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-shelf-renderer
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+! threater mode
+www.youtube.com##ytd-watch-flexy[full-bleed-player] > #full-bleed-container.ytd-watch-flexy:style(max-height: calc(100vh - 56px) !important)
+www.youtube.com##ytd-watch-flexy[fullscreen] > div#full-bleed-container.ytd-watch-flexy:style(max-height: none !important)
 
 ! login wall
 dcard.tw##div.__portal
