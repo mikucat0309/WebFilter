@@ -3,7 +3,6 @@
 ! Expires: 1 days
 
 prod.telemetry.console.api.aws
-prod.pr.panorama.console.api.aws
 ap-northeast-1.console.aws.amazon.com/panoramaroute
 ap-northeast-1.console.aws.amazon.com/p/log/
 us-east-1.console.aws.amazon.com/panoramaroute
