@@ -8,7 +8,7 @@ www.youtube.com##ytd-comment-engagement-bar
 www.youtube.com##ytd-rich-metadata-row-renderer > div#contents
 ! 推薦影片
 www.youtube.com##div#related
-! Reel
+! Reel & Shorts
 www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-shelf-renderer
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
