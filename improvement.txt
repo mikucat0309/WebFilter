@@ -17,9 +17,6 @@ www.youtube.com##ytd-video-renderer:has(ytd-thumbnail-overlay-time-status-render
 ! threater mode
 www.youtube.com##ytd-watch-flexy[full-bleed-player] > #full-bleed-container.ytd-watch-flexy:style(max-height: calc(100vh - 56px) !important)
 www.youtube.com##ytd-watch-flexy[fullscreen] > div#full-bleed-container.ytd-watch-flexy:style(max-height: none !important)
-! preview
-www.youtube.com##+js(aeld, mouseenter)
-www.youtube.com##+js(aeld, mouseleave)
 
 ! login wall
 dcard.tw##div.__portal
